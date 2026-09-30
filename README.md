@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository is archived. The plugin now lives in [DavidHiFi/Discord-Plugins](https://github.com/DavidHiFi/Discord-Plugins/tree/main/rounded-vc-pfp) with all of DavidHiFi's Discord plugins.
+
 # RoundedVcPfp User Plugin
 
 RoundedVcPfp fills a voice channel tile with each participant's full profile picture and rounds the corners instead of leaving hard right angles. It is a fork of Equicord's FullVCPFP with a configurable corner radius.
